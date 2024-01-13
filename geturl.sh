@@ -1,1 +1,1 @@
-curl -o $1 -s $2
+curl  -s $1 -o $2
